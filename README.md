@@ -110,16 +110,16 @@ Family farmer (2-20 ha), basic Android phone, intermittent 3G, spends the day in
 
 ## Audio Files (user must record)
 Place MP3 files in the `public/audio/` folder:
-- `mossaic_virus.mp3` — "Provavel mosaico viral. Procure um tecnico agronomo."
-- `southern_blight.mp3` — "Provavel podridao do colo. Procure um tecnico."
-- `sudden_death_syndrome.mp3` — "Provavel morte repentina. Procure um tecnico."
-- `yellow_mosaic.mp3` — "Provavel mosaico amarelo. Procure um tecnico."
-- `bacterial_blight.mp3` — "Provavel crestamento bacteriano. Procure um tecnico."
-- `brown_spot.mp3` — "Provavel mancha marrom. Procure um tecnico."
-- `ferrugen.mp3` — "Provavel ferrugem da soja. Procure um tecnico com urgencia."
-- `powdery_mildew.mp3` — "Provavel oidio. Procure um tecnico."
-- `septoria.mp3` — "Provavel septoriose. Procure um tecnico."
-- `nao_sei.mp3` — "Nao consegui identificar. Guardei a foto. Procure um tecnico."
+- `mossaic_virus.mp3` — "Likely viral mosaic. Seek an agronomic technician."
+- `southern_blight.mp3` — "Likely stem rot. Seek a technician."
+- `sudden_death_syndrome.mp3` — "Likely sudden death syndrome. Seek a technician."
+- `yellow_mosaic.mp3` — "Likely yellow mosaic. Seek a technician."
+- `bacterial_blight.mp3` — "Likely bacterial blight. Seek a technician."
+- `brown_spot.mp3` — "Likely brown spot. Seek a technician."
+- `ferrugen.mp3` — "Likely soybean rust. Seek a technician urgently."
+- `powdery_mildew.mp3` — "Likely powdery mildew. Seek a technician."
+- `septoria.mp3` — "Likely septoria. Seek a technician."
+- `nao_sei.mp3` — "I could not identify it. I saved the photo. Seek a technician."
 
 ## License
 This project is licensed under the MIT License.
