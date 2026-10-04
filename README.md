@@ -108,7 +108,7 @@ Family farmer (2-20 ha), basic Android phone, intermittent 3G, spends the day in
 - **Prices**: JSON file with last CEPEA quotation, updated when signal is available
 - **Photos**: compressed on-device before being stored in IndexedDB
 
-## Audio Files (user must record)
+## Audio Files
 Place MP3 files in the `public/audio/` folder:
 - `mossaic_virus.mp3` — "Likely viral mosaic. Seek an agronomic technician."
 - `southern_blight.mp3` — "Likely stem rot. Seek a technician."
