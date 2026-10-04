@@ -1,0 +1,16 @@
+{
+  "reference_price_rs_saca_60kg": 159.94,
+  "reference_price_usd_saca_60kg": 30.66,
+  "unit": "saca 60kg",
+  "source": "CEPEA/ESALQ-USP \u2014 Indicador da Soja (Paranagu\u00e1/PR, \u00e0 vista)",
+  "license": "CC BY-NC 4.0",
+  "date": "2026-10-02",
+  "last_updated": "2026-10-03",
+  "url": "https://www.cepea.org.br/br/indicador/soja.aspx",
+  "discounts": {
+    "moisture_base_pct": 13.0,
+    "moisture_penalty_per_pct_above_base": 1.5,
+    "impurity_base_pct": 1.0,
+    "impurity_penalty_per_pct_above_base": 0.7
+  }
+}

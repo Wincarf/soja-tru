@@ -1,0 +1,16 @@
+{
+  "name": "Soja Tru",
+  "short_name": "Soja Tru",
+  "description": "Offline soybean leaf diagnosis and fair price support for family farmers.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f6f4",
+  "theme_color": "#012d1d",
+  "icons": [
+    { "src": "/icons/soja-tru-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/soja-tru-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
