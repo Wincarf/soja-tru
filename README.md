@@ -1,6 +1,6 @@
 # Soja Tru - Soybean Disease Diagnosis PWA
 
-[Live demo](https://soja-tru.lovable.app/) — https://soja-tru.lovable.app/
+[Link](https://soja-tru.lovable.app/) — https://soja-tru.lovable.app/
 
 ## Problem (one sentence)
 Because of Soja Tru, a family soybean farmer can **identify a field problem and know if the offered harvest price is fair** *while standing in the field* — something they would otherwise do late or [...]
